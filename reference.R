@@ -241,3 +241,17 @@ cli({
 library(beepr)
 beep(sound = 8)
 beep(3)
+
+#beep('mario') # nice
+beep('coin')  # nice
+#beep('ping')
+#beep('fanfare')
+#beep('complete')
+#beep('treasure') # ok
+#beep('sword')
+
+# downloaded 
+#beep('./wav/alien-spaceship_daniel_simion.wav')
+
+
+# https://soundbible.com   -- can download .wav files for sounds and save in a file then call them
