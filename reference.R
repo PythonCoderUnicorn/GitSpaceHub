@@ -25,6 +25,40 @@ df %>%
 
 
 
+#-- ggplot 
+ggplot(data= mpg) +
+  geom_point( aes(x= displ, y=hwy, size= class), color= "orange")
+
+
+
+ggplot(mpg) +
+  geom_histogram( aes(x= hwy), 
+                  binwidth = 5, 
+                  fill="gold", 
+                  color='black') +
+  scale_x_continuous(breaks = seq(0,45,5), limits =  c(0,50), expand = c(0,0))+
+  scale_y_continuous(breaks = seq(0,90,10), limits =  c(0,90), expand = c(0,0))
+
+
+ggplot(mpg) +
+  geom_boxplot( aes(x= class, y=cty, fill=class))
+
+
+ggplot(mpg) +
+  geom_bar( aes(x= class, fill= factor(cyl))) +
+  labs(title = "cylinders by class", fill="cylinders") +
+  coord_flip()
+
+
+ggplot(mpg) +
+  geom_bar( aes(x= class, fill= factor(cyl)), position = 'dodge') +
+  labs(title = "cylinders by class", fill="cylinders") +
+  coord_flip()
+
+
+
+
+
 # forcats 
 #  forcats = factors
 
