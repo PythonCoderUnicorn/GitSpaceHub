@@ -59,7 +59,50 @@ ggplot(mpg) +
 
 
 
-# forcats 
+#======== plotly scatterplot
+# Scatterplot
+library(plotly)
+
+data <- read.csv("https://raw.githubusercontent.com/plotly/datasets/master/school_earnings.csv")
+
+fig <- plot_ly(data, x = ~Women, y = ~Men, text = ~School, type = 'scatter', mode = 'markers',
+        marker = list(size = ~Gap, opacity = 0.5,
+                      color = 'rgb(255, 65, 54)'))
+fig <- fig %>% layout(title = 'Gender Gap in Earnings per University',
+         xaxis = list(showgrid = FALSE),
+         yaxis = list(showgrid = FALSE))
+
+fig
+
+#-------
+library(plotly)
+f <- list(
+  family = "Courier New, monospace",
+  size = 28,
+  color = "#7f7f7f"
+)
+x <- list(
+  title = "x Axis",
+  titlefont = f
+)
+y <- list(
+  title = "y Axis",
+  titlefont = f
+)
+fig <- plot_ly(x = ~rnorm(10), y = ~rnorm(10), mode = "markers")
+fig <- fig %>% layout(xaxis = x, yaxis = y)
+
+fig
+
+
+
+
+
+
+
+
+
+#================= forcats 
 #  forcats = factors
 
 library(tidyverse) 
