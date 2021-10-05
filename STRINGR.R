@@ -121,3 +121,48 @@ str_to_title(s1) # capitalizes each word
 
 
 
+
+library(stringr)
+x = c("this","cheese","stringr",'is","stringy')
+str_length(x)
+str_count(x)
+
+str_c(x, " * ")
+
+str_sort(x, decreasing = T)
+str_sort(x, decreasing = F)
+
+str_extract(x, pattern = 'y')
+str_locate(x, pattern = 'y')
+
+str_detect(x, pattern = "cheese")
+
+str_match(x, "r")
+
+str_replace(x, "[aeiouy]", "?")
+
+# categorical data stored in factors
+blood = c("A","B","O","AB")
+#make it a factor
+blood.factor = factor(blood)
+
+str(blood.factor)
+
+# Nominal vs Ordinal
+tshirts = c('L','M','S','XL','XS')
+tshirts.factor = factor(tshirts,
+                        ordered = T,
+                        levels =  c('XS','S',
+                                    'M','L','XL'))
+
+tshirts.factor
+
+
+
+
+
+
+
+
+
+
