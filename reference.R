@@ -194,3 +194,20 @@ augmentedcars
 
 
 
+
+
+## terminal color styling 
+
+library(tidyverse)
+
+library(crayon)
+cat(yellow$cyan$bold("hello", "Crayon World!\n"))
+
+library(cli)
+cli({
+  cli_h1(yellow$bold("Title"))
+  cli_h2("Subtitle")
+  cli_ul(c("this", "that", "end"))
+})
+
+
