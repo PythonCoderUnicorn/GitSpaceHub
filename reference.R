@@ -211,3 +211,9 @@ cli({
 })
 
 
+
+
+#=============== beepr library
+library(beepr)
+beep(sound = 8)
+beep(3)
