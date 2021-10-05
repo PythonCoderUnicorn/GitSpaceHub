@@ -364,3 +364,101 @@ beep('coin')  # nice
 
 
 # https://soundbible.com   -- can download .wav files for sounds and save in a file then call them
+
+
+
+
+
+
+
+library(tidyverse)
+library(scales)
+library(ggplot2)
+library(lubridate)
+library(stringi)
+library(stringr)
+library(ggtext)
+library(dplyr)
+
+
+# ----- ggtext
+base <- ggplot(data.frame(x = c(-5, 5)), aes(x)) +
+  stat_function(fun = ~ .x*.x)
+
+base
+
+
+mtcars %>%
+  mutate(
+    transmission = ifelse(am == 1, "automatic", "manual")
+  ) %>%
+  ggplot(aes(hp, mpg, color = transmission)) +
+  geom_point(size = 2) +
+  scale_color_manual(
+    values = c(automatic = "#0072B2", manual = "#D55E00"),
+    guide = "none"
+  ) +
+  labs(
+    x = "Horse power",
+    y = "Miles per gallon (MPG)",
+    title = "<span style = 'font-size:14pt; font-family:Helvetica;'>Transmission type impacts fuel efficiency</span><br>
+MPG is higher for <span style = 'color:#0072B2;'>automatic</span>
+than for <span style = 'color:#D55E00;'>manual</span> transmissions"
+  ) +
+  theme_bw() +
+  theme(
+    text = element_text(family = "Times"),
+    plot.title.position = "plot",
+    plot.title = element_markdown(size = 11, lineheight = 1.2)
+  )
+
+
+
+base <- mtcars %>%
+  mutate(
+    transmission = ifelse(am == 1, "automatic", "manual")
+  ) %>%
+  ggplot(aes(hp, mpg, color = transmission)) +
+  geom_point(size = 2) +
+  scale_color_manual(
+    values = c(automatic = "#0072B2", manual = "#D55E00"),
+    guide = "none"
+  ) +
+  labs(
+    x = "Horse power",
+    y = "Miles per gallon (MPG)",
+    title = "Transmission type impacts fuel efficiency<br>
+<span style = 'font-size:10pt;'>Miles per gallon (MPG) is on average higher for cars
+with <span style = 'color:#0072B2;'>automatic transmission</span> than for cars with
+<span style = 'color:#D55E00;'> manual transmission.</span> However, MPG generally
+declines with increasing horse power.</span>"
+  ) +
+  theme_bw() + theme(plot.title.position = "plot")
+
+base +
+  theme(
+    plot.title = element_textbox_simple(
+      size = 14, lineheight = 1, padding = margin(0, 0, 5, 0)
+    )
+  )
+
+
+
+base +
+  theme(
+    plot.title = element_textbox_simple(
+      size = 14, lineheight = 1,
+      linetype = 1, # turn on border
+      box.color = "#748696", # border color
+      fill = "#F0F7FF", # background fill color
+      r = grid::unit(3, "pt"), # radius for rounded corners
+      padding = margin(5, 5, 5, 5), # padding around text inside the box
+      margin = margin(0, 0, 10, 0) # margin outside the box
+    )
+  )
+
+
+
+
+
+
