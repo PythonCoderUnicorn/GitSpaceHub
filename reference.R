@@ -1,6 +1,30 @@
 
 
 
+#=========== make a dataframe with tribble
+library(tidyverse)
+
+df = tribble(
+  ~race, ~sex, ~gender, ~LGBT,
+  1124, 354, 354, 1294,
+  115,1165,1153,36,
+  2,0,10,141,
+  167,0,10,141,
+  2, 0,2,11,
+  81, 0, 0, 0,
+  28, 0, 0,0 )
+
+
+df %>% 
+  mutate(gender = as.factor(1:7),
+         gender = c("Male","Female",
+                    "Non-Binary","Trans-Female",
+                    "Trans-Male",'Agender',"Prefer Not to Say"))
+
+
+
+
+
 # forcats 
 #  forcats = factors
 
