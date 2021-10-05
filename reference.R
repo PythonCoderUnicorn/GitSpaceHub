@@ -62,6 +62,16 @@ ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) +
 
 
 
+# use jitter to avoid overcrowding points
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy,  col=displ), position = "jitter", alpha= 0.5,)
+
+
+
+
+
+
+
 #======== plotly scatterplot
 # Scatterplot
 library(plotly)
