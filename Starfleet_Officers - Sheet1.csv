@@ -1,0 +1,30 @@
+first_name,last_name,gender_,gender,birth_year,rank,rank_no,serial_number,home_planet,planet,race_species,race,uniform_color,uniform_hex,department,department_no,ship_name_or_station,order
+James,Kirk,M,2,2233,Captain,4,SC937-0176CEC,Earth,1,Humanoid,1,Gold,#C5AD58,Command,1,USS Enterprise,1
+Spock,NULL,M,2,2230,Lt. Cmdr,2.5,S 179-276 SP,Vulcan,3,Vulcan,2,Blue,#2A7FBE,Science,4,USS Enterprise,1
+Hikaru,Sulu,M,2,2250,Lt,2,0,Earth,1,Humanoid,1,Gold,#C5AD58,Operations,2,USS Enterprise,1
+Montgomery,Scott,M,2,2222,Chief Engineer,0.5,SE 19754 T,Earth,1,Humanoid,1,Red,#C93A28,Engineering,3,USS Enterprise,1
+Nyota,Uhura,F,1,2200,Lt,2,0,Earth,1,Humanoid,1,Red,#C93A28,Command,1,USS Enterprise,1
+Pavel,Chekov,M,2,2245,Ensign,1,656-5827D,Earth,1,Humanoid,1,Gold,#C5AD58,Operations,2,USS Enterprise,1
+Leonard,McCoy,M,2,2227,Chief Medical Officer,1.5,0,Earth,1,Humanoid,1,Blue,#2A7FBE,Science,4,USS Enterprise,1
+Christine,Chapel,F,1,2200,Cmdr.,3,NI-596 MT21Z,Earth,1,Humanoid,1,Blue,#2A7FBE,Science,4,USS Enterprise,1
+Jean-Luc,Picard,M,2,2305,Captain,4,SP-937-215,Earth,1,Humanoid,1,Red,#9B0B25,Command,1,USS Enterprise (NCC-1701-D) ,2
+Will,Riker,M,2,2335,Cmdr,3,SC-231-427,Earth,1,Humanoid,1,Red,#9B0B25,Command,1,USS Enterprise (NCC-1701-D) ,2
+Data,NULL,M,2,2338,Lt.Cmdr,2.5,0,Omicron Theta,8,Android,6,Olive,#D89723,Operations,2,USS Enterprise (NCC-1701-D) ,2
+Geordi,LaForge,M,2,2335,Lt.Cmdr,2.5,0,Earth,1,Humanoid,1,Olive,#D89724,Engineering,3,USS Enterprise (NCC-1701-D) ,2
+Worf,NULL,M,2,2340,Lt.Cmdr,2.5,0,Qo'noS,6,Klingon,3,Olive,#D89725,Operations,2,USS Enterprise (NCC-1701-D) ,2
+Deanna,Troi,F,1,2336,Cmdr,3,0,Betazed,4,Betazoid-Humanoid,0.5,Blue,#427FA8,Counselor,6,USS Enterprise (NCC-1701-D) ,2
+Reginald,Barclay,M,2,2340,Lt,2,0,Earth,1,Humanoid,1,Olive,#D89723,Engineering,3,USS Enterprise (NCC-1701-D) ,2
+Beverely,Crusher,F,1,2324,Cmdr.,3,0,Luna,2,Humanoid,1,Blue,#427FA8,Science,4,USS Enterprise (NCC-1701-E) ,2
+Ro,Laren,F,1,2340,Lt,2,HL-2133-894,Bajor,5,Bajoran,4,Red,#9B0B25,Command,1,USS Enterprise (NCC-1701-D) ,2
+Benjamin,Sisko,M,2,2332,Captain,4,0,Earth,1,Humanoid,1,Red,#9B0B25,Command,1,DS_9,3
+Miles,O'Brien,M,2,2328,Senior Chief Petty Officer,3,0,Earth,1,Humanoid,1,Olive,#D89723,Engineering,3,DS_9,3
+Julian,Bashir,M,2,2341,Lt,2,0,Earth,1,Humanoid,1,Blue,#427FA8,Science,4,DS_9,3
+Jadzia,Dax,Transgender,3,2341,Lt.Cmdr,2.5,0,Trill,7,Trill,5,Blue,#427FA8,Science,4,DS_9,3
+Katheryn,Janeway,F,1,2200,Captain,4,0,Earth,1,Humanoid,1,Red,#9B0B25,Command,1,USS Voyager,4
+Chakotay,NULL,M,2,2329,Cmdr,3,47-alpha-612,Earth,1,Humanoid,1,Red,#9B0B26,Command,1,USS Voyager,4
+Tuvok,NULL,M,2,2264,Lt.Cmdr,2.5,0,Vulcanis Lunar,9,Vulcan,2,Olive,#D89723,Security,5,USS Voyager,4
+Tom,Paris,M,2,2200,Lt,2,0,Earth,1,Humanoid,1,Red,#9B0B25,Command,1,USS Voyager,4
+B'Elanna ,Torres,F,1,2349,Lt,2,0,Kessik IV,10,Klingon-Humanoid,0.5,Olive,#D89723,Engineering,3,USS Voyager,4
+Harry,Kim,M,2,2349,Ensign,1,0,Earth,1,Humanoid,1,Olive,#D89723,Operations,2,USS Voyager,4
+7of9,NULL,F,1,2350,NULL,0,0,Tendara ,11,Humanoid,1,Purple,#40171E,Astrometrics,4,USS Voyager,4
+Doctor,NULL,M,2,2371,Chief Medical Officer,1.5,0,NULL,0,Humanoid,1,Blue,#427FA8,Science,4,USS Voyager,4
