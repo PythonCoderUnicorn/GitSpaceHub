@@ -1,0 +1,39 @@
+Species,Type,Size,Starship_Size,Crew_Size,Electro_plasma,Dilithium_matrix,Anti_Contain_Field,Warp_speed,Armament,Defenses
+Acamarian,starship,small,0,11,0,0.7167175546421605,17.685762938947015,4.985451657850372,Phasers,Deflector shields
+Akritirian,cargo freighter,small,0,7,0,1.9594739724612595,17.820311285030453,3.7321486020096257,Null,trilithium explosives
+Aksani,starship,small,0,4,0,0.5315123955032318,23.000932507094845,5.9222657455845225,Phasers,Deflector shields
+Ankari,starship,small,0,9,1,2.730028737482709,16.15203778804243,3.860757072828866,Null,Null
+Annari,"warship (2372),(2377)",medium,1,81,0,0.9995169460702773,17.220668281975165,1.8977493711228675,"""pulses"" to illuminate cloaked vessels.",cloaking device
+Antares (Corvallen),freighter,small,0,4,0,0.23200028993037117,19.99620904445416,7.8570436274529305,Null,"Cloaking field, deflector shields"
+Arkonian,military vessel,small,0,5,0,0.6278784741925294,21.324575068867055,4.054528026487251,Null,Hull: tritanium and disilicon polymers.
+Assault,starship,medium,1,28,0,3.608614028447986,19.982310189392237,4.934610264838188,Phasers,shields
+Axanar,cargo freighter,small,0,9,0,0.8357915357118146,22.380651400702067,9.712111653992306,Null,cloaking
+'B'omar,patrol ship,small,0,4,0,2.058025144414117,28.094166482550087,7.258754801101339,Null,Null
+Ba'Neth,starship,small,0,1,0,2.2984333207832717,27.659038178895223,8.503258238928021,directed energy weapons and torpedoes,Null
+Ba'ul,attack fighter,small,0,11,0,1.962042216579268,18.397790706704527,4.910545645970327,Null,Null
+Antares,starship,small,0,5,0,1.7470562986167506,20.26717096847849,7.77598638232619,directed energy weaponry.,Null
+Benthan,fighter,small,0,13,0,0.5881399847381396,19.056227832174486,1.9252656241858495,Null,torpedo weapons
+Boslic,cargo,small,0,9,0,2.0719860954122535,21.12071764923475,4.162652993149386,phasers and tractor beams,Null
+Breen,vessel,medium,1,12,1,3.031417558066989,20.8279875479781,3.7781895734689144,Null,shields
+Caatati,starship,large,2,2,1,2.0313127135941986,18.542571992739436,4.04382827210109,energy dissipators,refractive shielding
+Dauntless,starship,large,2,2,0,2.0353577625053947,27.70173719934729,9.048029084897845,Null,deflector screen
+Devore,warship,small,0,11,0,0.9529018463446439,23.44599557996989,9.535896130962527,phasers,Deflector shields
+Gorn,vessel,small,0,10,0,0.9073005016148427,28.31323245885761,7.565645294247305,Null,Auto-regenerative shielding
+Hazari,starship,small,0,3,0,0.8704066359272092,29.4000223356684,8.520158321217028,2+ phaser emitters,Deflector shields
+Hierarchy,starship,small,0,14,0,2.1174882075633676,15.007391707457348,3.0849800341010845,"Directed energy weapons, spatial charges","Deflector shields, cloaking device"
+Kaplan F17,Freighter,medium,1,154,1,2.0394995814019587,16.73046896943629,5.109424688036998,Polaron-based directed energy weapons and torpedos,Deflector shields
+Kraylor,medical transport,large,2,2,1,3.650337796622948,24.394877763305345,9.823081374944978,"Phasers, Photon torpedoes",Deflector shields
+Lokirrim,patrol ship,medium,1,145,0,2.664559811095901,15.902651661762055,7.365523767075181,Phasers,Deflector shields
+Lysian*,attack vessels,small,0,4,0,0.8460255412604449,18.26909187705119,6.322748158265156,"Phasers, photonic disruptor",Deflector shields
+Maquis,raider,small,0,1,1,3.2387252184827493,24.321475306009674,8.312329970547324,Null*,Shields
+Mazarite,starship,small,0,5,0,0.7586197254504399,30.051338210727238,5.0209665243660435,"2+ phaser banks, 4 torpedo launchers",Regenerative shields
+Nausicaan,freighter,small,0,11,0,3.399336010752534,22.693576144269393,7.297260852045419,Directed energy weapons,"subspace audio communications, cloaking device, and featured advanced transporter functions"
+Numiri,patrol,small,0,1,0,2.825817364788755,29.464128860978235,6.260137634918397,Plasma cannons,"Reinforced hull plating, covariant shields, multiphasic force fields"
+Onquanii's,starship,small,0,5,0,1.3829925222230044,28.499585964519355,8.970160104986078,Directed energy weapons,Subspace defense field
+Penk's,starship,medium,1,39,1,3.2850012583440362,20.280355308678192,3.1324533772165224,weapons and shields,missiles with plasma wave
+Pralor,starship,medium,1,168,1,1.710713245581726,28.97564706464172,3.6412406577048215,"Neutronic weaponry, dampening field",cloaking devices
+Rakosan,fighter,small,0,2,1,0.12049707260455876,15.151597502057472,3.822218438859137,Quantum resonance charges,Null
+Ramuran,starship,small,0,4,0,2.7769804268564164,26.23800380526052,8.455896172897159,single directed energy weapon,Deflector shields
+Retellian,freighter,small,0,10,0,3.516271285732576,19.445871876895158,7.1634075068906755,proton weapons,Deflector shields
+Tamarian,cruiser,medium,1,168,0,0.5408757658952926,28.66094998503622,4.946907019382534,Particle beam weapons,Null_
+Zalkonian,warship,medium,1,98,0,0.7891305456418787,27.917904677798383,9.580143906226766,Phasers,Null_
