@@ -133,13 +133,13 @@ movie_title, genre, date, views, sins, box_office_$M, budget_$M
 "Gemini Man (2019)", Action_Thriller,"March 19 2020",829420,107,173.5, 138
 "Doctor Sleep (2019)",Horror, "March 17 2020", 987755, 111,72.3, 55
 "Frozen 2 (2019)", Animated_Musical,"March 12 2020", 2636906, 109,"1.450 B", 150
-"Teen Titans Go! To The Movies (2018)",Animated_Superhero,"March 10 2020", 2000679, 175, 52.1, 10
+"Teen Titans Go! To The Movies (2018)", Animated_Superhero, "March 10 2020", 2000679, 175, 52.1, 10
 "Constantine (2005)",Horror,"March 5 2020", 1189127,104, 230.9, 100
-"Midsommar (2019)", Horror,"March 3 2020",1803975, 87,47.9, 9
+"Midsommar (2019)", Horror, "March 3 2020", 1803975, 87, 47.9, 9
 "Zombieland: Double Tap (2019)", Zombie_Comedy", "Feb 27 2020", 1968294, 105, 122.8, 45
 "Terminator: Dark Fate (2019)", Action, "Feb 25 2020", 2106880, 124, 261.1, 196
-"The Addams Family (2019)",Animated_Comedy,"Feb 20 2020", 1606592, 102,  204, 24
-"The Boy (2016)",Horror,"Feb 18 2020", 1376956, 123, 64.2,10
+"The Addams Family (2019)", Animated_Comedy,"Feb 20 2020", 1606592, 102,  204, 24
+"The Boy (2016)", Horror,"Feb 18 2020", 1376956, 123, 64.2,10
 
 "Once Upon a Time in Hollywood (2019)",Comedy_Drama,"Feb 13 2020", 1719433, 204, 374.3, 96
 "Maleficent: Mistress of Evil (2019)", Fantasy, "Feb 11 2020", 934916, 113, 492.1, 185
