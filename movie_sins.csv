@@ -132,18 +132,18 @@ movie_title, genre, date, views, sins, box_office_$M, budget_$M
 "Knives Out (2019)",Mystery, "March 24 2020", 1708783, 67, 311.4, 40
 "Gemini Man (2019)", Action_Thriller,"March 19 2020",829420,107,173.5, 138
 "Doctor Sleep (2019)",Horror, "March 17 2020", 987755, 111,72.3, 55
-"Frozen 2 (2019)", Animated_Musical,"March 12 2020", 2636906, 109,"1.450 B", 150
+"Frozen 2 (2019)", Animated_Musical, "March 12 2020", 2636906, 109, "1.450 B", 150
 "Teen Titans Go! To The Movies (2018)", Animated_Superhero, "March 10 2020", 2000679, 175, 52.1, 10
-"Constantine (2005)",Horror,"March 5 2020", 1189127,104, 230.9, 100
+"Constantine (2005)", Horror, "March 5 2020", 1189127, 104, 230.9, 100
 "Midsommar (2019)", Horror, "March 3 2020", 1803975, 87, 47.9, 9
-"Zombieland: Double Tap (2019)", Zombie_Comedy", "Feb 27 2020", 1968294, 105, 122.8, 45
+"Zombieland: Double Tap (2019)", Zombie_Comedy, "Feb 27 2020", 1968294, 105, 122.8, 45
 "Terminator: Dark Fate (2019)", Action, "Feb 25 2020", 2106880, 124, 261.1, 196
 "The Addams Family (2019)", Animated_Comedy,"Feb 20 2020", 1606592, 102,  204, 24
 "The Boy (2016)", Horror,"Feb 18 2020", 1376956, 123, 64.2,10
 
 "Once Upon a Time in Hollywood (2019)",Comedy_Drama,"Feb 13 2020", 1719433, 204, 374.3, 96
 "Maleficent: Mistress of Evil (2019)", Fantasy, "Feb 11 2020", 934916, 113, 492.1, 185
-"The Silence of the Lambs (1991)",Horror, "Feb 6 2020", 1553942, 88, 272.7, 19
+"The Silence of the Lambs (1991)", Horror, "Feb 6 2020", 1553942, 88, 272.7, 19
 "The Departed (2006)", Crime_Thriller, "Feb 4 2020", 1166299, 143, 291.5, 90
 "Joker (2019)", Thriller, "Jan 30 2020",4308211, 123, "1.074 B", 70
 "Scary Stories to Tell in the Dark (2019)",Horror,"Jan 28 2020", 2113761,108, 106, 28
