@@ -190,8 +190,8 @@ movie_title, genre, date, views, sins, box_office_$M, budget_$M
 "Alita: Battle Angel (2019)", Action, "Aug 22 2019", 2039108, 150, 405, 200
 "London Has Fallen (2016)", Action_Thriller, "Aug 20 2019", 1486170, 157, 205.9
 "The Emperor's New Groove", Animated_Comedy, "Aug 15 2019",2249961,94, 169.6
-"47 Meters Down (2017)",Horror,"Aug 13 2019",2344433,87, 62.6
-"Bolt (2008)",Animated_Comedy,"Aug 8 2019",2606644, 102, 310
+"47 Meters Down (2017)",Horror,"Aug 13 2019",2344433,87, 62.6,0
+"Bolt (2008)",Animated_Comedy,"Aug 8 2019",2606644, 102, 310,0
 "Shazam! (2019)",Superhero,"Aug 6 2019",3730267, 106, 366
 "Monster House (2006)",Horror, "Aug 1 2019", 3348900, 103, 141.9
 "Gone In 60 Seconds (2000)", Action, "July 30 2019", 1327081,115, 237.2
