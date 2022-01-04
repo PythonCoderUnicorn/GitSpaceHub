@@ -184,12 +184,12 @@ movie_title, genre, date, views, sins, box_office_$M, budget_$M
 "Missing Link (2019)", Animated_Adventure, "Sep 24 2019", 834058, 95, 26.2, 102.3
 "G.I. Joe: The Rise of Cobra (2009)",Action, "Sep 17 2019", 1378660, 156, 302.5, 175
 "Shrek Forever After (2010)", Animated_Comedy,"Sep 10 2019", 2348215, 621, 752.6, 165
-"It (1990)",Horror, "Sep 3 2019",1898678, 132, 12,0
-"The Curse of La Llorona (2019)",Horror,"Aug 29 2019", 1811346, 204, 123.1, 9
-"The Dark Crystal: Age of Resistance",Fantasy,"Aug 27 2019", 837009, 109, 0,0
-"Alita: Battle Angel (2019)", Action,"Aug 22 2019", 2039108, 150, 405, 200
-"London Has Fallen (2016)", Action_Thriller,"Aug 20 2019", 1486170, 157, 205.9
-"The Emperor's New Groove", Animated_Comedy,"Aug 15 2019",2249961,94, 169.6
+"It (1990)", Horror, "Sep 3 2019", 1898678, 132, 12, 0
+"The Curse of La Llorona (2019)", Horror, "Aug 29 2019", 1811346, 204, 123.1, 9
+"The Dark Crystal: Age of Resistance", Fantasy, "Aug 27 2019", 837009, 109, 0, 0
+"Alita: Battle Angel (2019)", Action, "Aug 22 2019", 2039108, 150, 405, 200
+"London Has Fallen (2016)", Action_Thriller, "Aug 20 2019", 1486170, 157, 205.9
+"The Emperor's New Groove", Animated_Comedy, "Aug 15 2019",2249961,94, 169.6
 "47 Meters Down (2017)",Horror,"Aug 13 2019",2344433,87, 62.6
 "Bolt (2008)",Animated_Comedy,"Aug 8 2019",2606644, 102, 310
 "Shazam! (2019)",Superhero,"Aug 6 2019",3730267, 106, 366
