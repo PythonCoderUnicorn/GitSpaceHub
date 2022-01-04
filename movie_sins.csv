@@ -22,15 +22,15 @@ movie_title, genre, date, views, sins, box_office_$M, budget_$M
 "Prince of Persia (2010)", Fantasy_Action,"April 6 2021",498238,137, 336.4, 200
 "The Mighty Ducks (1992)", Sports_Action,"April 1 2021", 332820,158, 50.8, 14
 "Napoleon Dynamite (2004)",Comedy, "March 30 2021", 610227,111, 46.1, "400,000"
-"Galaxy Quest (1999)",Science_Fiction, "March 25 2021", 456370,116, 90.7, 45
-"Legend of the Guardians (2010)", Animated_Fantasy,"March 23 2021", 391406,135, 140.1, 80
-"Deja Vu (2006)",Science_Fiction,"March 18 2021",237224,106, 180.6, 75
-"Office Space (1999)",Comedy, "March 16 2021", 489272, 110,12.2, 10
-"Superman 3 (1983)",Superhero, "March 11 2021", 387084,236,80.2, 39
-"Last Action Hero (1993)",Fantasy, Action,"March 9 2021", 315709,122, 137.3, 85
-"The League of Extraordinary Gentlemen (2003)", Superhero,"March 4 2021",602482,116, 179.3, 78
-"Coming to America (1988)", Romantic_Comedy,"March 2 2021",659073,97, 350, 36
-"Snakes On A Plane (2006)",Action, "Feb 25 2021",1090406, 100135, 62, 33
+"Galaxy Quest (1999)", Science_Fiction, "March 25 2021", 456370,116, 90.7, 45
+"Legend of the Guardians (2010)", Animated_Fantasy, "March 23 2021", 391406, 135, 140.1, 80
+"Deja Vu (2006)", Science_Fiction, "March 18 2021", 237224, 106, 180.6, 75
+"Office Space (1999)", Comedy, "March 16 2021", 489272, 110, 12.2, 10
+"Superman 3 (1983)", Superhero, "March 11 2021", 387084, 236, 80.2, 39
+"Last Action Hero (1993)", Fantasy_Action, "March 9 2021", 315709,122, 137.3, 85
+"The League of Extraordinary Gentlemen (2003)", Superhero, "March 4 2021",602482,116, 179.3, 78
+"Coming to America (1988)", Romantic_Comedy, "March 2 2021",659073,97, 350, 36
+"Snakes On A Plane (2006)", Action, "Feb 25 2021",1090406, 100135, 62, 33
 "Donnie Darko (2001)", Science_Fiction, "Feb 23 2021", 410024, 102, 7.5, 4.5
 "Tenet (2020)", Science_Fiction,"Feb 18 2021", 766678, 71, 363.7, 200
 "Friday (1995)", Stoner_Comedy, "Feb 16 2021", 536347, 112, 27.4, 3.5
